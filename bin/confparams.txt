@@ -1,0 +1,9 @@
+# Configuration parameters for test_TrackingTrajectory.cpp
+##############################################
+start=0
+dataSize=300
+normTH=0.20
+ratioTH=0.6
+disparityTH=5
+debugPrint=false
+useMI=false
