@@ -1,0 +1,11 @@
+# T distribution-based SSD parameters
+##############################################
+UseEM=true
+
+# Mutual Information parameters
+##############################################
+UseWeight=true
+UseConvergEstimate=false
+UseNormMInfo=true
+Use2ndDervs=false
+debugInfo=false
